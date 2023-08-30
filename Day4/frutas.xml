@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<frutas>
+
+
+	<fruta id="1">naranja</fruta>
+
+
+	<fruta id="2">mandarina</fruta>
+
+
+	<fruta id="3">pera</fruta>
+
+
+	<fruta id="4">melon</fruta>
+
+
+	<fruta id="5">durazno</fruta>
+
+
+	<fruta id="6">sandia</fruta>
+
+
+</frutas>
